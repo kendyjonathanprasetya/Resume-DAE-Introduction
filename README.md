@@ -2,7 +2,7 @@
 
 Data merupakan kumpulan data / angka yang di gunakan untuk refrensi atau analisis
 
-
+-----------------------------------------------------------------------------------------
 Pemakaan Data bisa kita lihat dari DIKW Pyramid (Data, Information, Knowledge, Wisdom)
 
 Data (fakta mentah, tanpa konteks):
@@ -31,7 +31,7 @@ Information: suhu 34°C di Surabaya siang hari.
 Knowledge: Surabaya memang panas di siang hari, jadi orang bisa cepat dehidrasi.
 Wisdom: lebih baik bawa minum kalau mau keluar, atau hindari aktivitas luar ruangan terlalu lama.
 
-
+------------------------------------------------------------------------------------------------------
 Dalam Penerapan DIKW terdapat prosesnya yaitu Data Analysic Process
 
 Understanding the problem and desired results
@@ -59,7 +59,7 @@ Sajikan hasil dalam bentuk laporan, grafik, atau presentasi.
 Contoh: bikin grafik tren penjualan sebelum dan sesudah iklan dikurangi.
 
 
-
+----------------------------------------------------------------------------
 
 Jenis-Jenis Analisis Data
 
